@@ -1,5 +1,5 @@
 # nordvpn-killswitch
 Turn on nordvpn killswitch automatically.
 
-#Tutorial
+# Tutorial
 https://owlhowto.com/bash-script-to-enable-automatically-killswitch-on-nordvpn/
