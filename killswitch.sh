@@ -10,7 +10,7 @@ sleep 1
 killswitch="$(nordvpn settings | grep -oP '(?<=Kill Switch: ).*')"
 
 #Turn on Killswitch if OFF
-killswitch_on="$(nordvpn set killswitch on)"
+killswitch_on="nordvpn set killswitch on"
 
 
 
